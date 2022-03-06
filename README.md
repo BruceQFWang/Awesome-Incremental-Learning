@@ -127,6 +127,7 @@
 - <a name="todo"></a> A Continual Learning Framework for Uncertainty-Aware Interactive Image Segmentation(**AAAI, 2021**) [[paper](https://www.aaai.org/AAAI21Papers/AAAI-2989.ZhengE.pdf)] 
 - <a name="todo"></a> Do Not Forget to Attend to Uncertainty While Mitigating Catastrophic Forgetting(**WACV, 2021**) [[paper](https://openaccess.thecvf.com/content/WACV2021/html/Kurmi_Do_Not_Forget_to_Attend_to_Uncertainty_While_Mitigating_Catastrophic_WACV_2021_paper.html)] 
 - <a name="todo"></a> Gradient Projection Memory for Continual Learning(**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=3AOj0RCNC2)] 
+- <a name="todo"></a> Contextual Transformation Networks for Online Continual Learning (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=zx_uX-BO7CH)] 
 
 ### 2020
 - <a name="todo"></a> Rethinking Experience Replay: a Bag of Tricks for Continual Learning(**ICPR, 2020**) [[paper](https://arxiv.org/abs/2010.05595)] [[code](https://github.com/hastings24/rethinking_er)]
